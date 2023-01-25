@@ -69,13 +69,13 @@ export default async function handler(req: NextRequest) {
               style={{ margin: 0 }}
               tw={clsx('text-2xl font-normal text-gray-300')}
             >
-              theodorusclarence.com/blog
+              ialassf.sa/blog
             </h3>
             <h1 tw={clsx('mt-0', 'text-4xl leading-tight font-normal')}>
               <span
                 style={
                   {
-                    backgroundImage: 'linear-gradient(90deg, #00e887, #00e0f3)',
+                    backgroundImage: 'linear-gradient(90deg, #00e0f3, #00c4fd)',
                     backgroundClip: 'text',
                     '-webkit-background-clip': 'text',
                     color: 'transparent',
